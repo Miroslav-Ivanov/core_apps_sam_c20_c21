@@ -17,3 +17,5 @@
 **/*.KEIL/Objects
 **/*.KEIL/*.uvguix.*
 Gemfile*
+/apps/library/eeprom_emulator/eeprom_emulator_read_write/firmware/sam_c21n_xpro.X/dist/
+/apps/library/eeprom_emulator/eeprom_emulator_read_write/firmware/sam_c21n_xpro.X/build/
